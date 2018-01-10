@@ -1,0 +1,2 @@
+Why use NodeJS as a server? 
+	- single-threaded asynchronous model can handle multiple requests without bottle necking
