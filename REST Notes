@@ -1,0 +1,19 @@
+REST - Representational State Transfer
+
+Uniform interface - If I call an API, use FS module to write a file (write.File). How would you read a file(read.File)?
+
+Stateless - Any call to the server, isn't dependent on previous calls to the server.
+  - When you make an API call, you're giving the server all the information it needs and returns back to the client, all it needs.
+  - Doesn't matter which server it hits, it won't change what information you get back.
+  - Send a token?, to keep the call stateless.
+Keeps the database from the client
+
+Cacheable???
+
+Load balancer???
+
+HTTP verbs --
+get - used only to retrieve information from the database
+post - creates a row
+put- updates a row
+delete - removes a row

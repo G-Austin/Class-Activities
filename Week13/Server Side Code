@@ -1,0 +1,26 @@
+Server Side Code
+
+visitina URL and thne being given an HTML page.
+-Visitin an API end-point that parse URL parameters to provide selevtive JSONS
+
+What is a Client?
+-It's a laptop.
+-A users personal machine that makes requests of the server.
+
+Clients and Servers work together. Clients make requests of the server.
+
+Computers can be servers too. 
+
+Servers live in dedicated hardware intended to handle ALL the request and repsonses of many clients
+
+Creating a server equates to writing code that handeles what the server will do.
+
+1. Give server a listener
+
+2. URL Parse
+
+3. Route Handling
+
+4. Send HTML
+5. Send JSON
+6. Receive
